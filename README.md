@@ -1,1 +1,1 @@
-- This is a Predective model which predicts for 2023 road accidents in India
+- This is a predictive model that predicts 2023 road accidents in India
