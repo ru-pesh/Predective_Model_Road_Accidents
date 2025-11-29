@@ -1,2 +1,2 @@
 - This is a predictive model that predicts 2023 road accidents in India
-- Linear Regression is used to predict
+- Linear Regression is used to predict.
